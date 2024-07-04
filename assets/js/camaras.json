@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Canom",
+    "image": "/assets/img/shopping.webp"
+  },
+  {
+    "id": 2,
+    "name": "Sony",
+    "image": "/assets/img/shopping.webp"
+  },
+  {
+    "id": 3,
+    "name": "Kodak",
+    "image": "/assets/img/shopping.webp"
+  }
+]

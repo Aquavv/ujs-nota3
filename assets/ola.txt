@@ -1,0 +1,32 @@
+ <div class="row">
+            <div class="col-md-4">
+              <div class="card">
+                <a href="">
+                  <img src="assets/img/shopping.webp" class="card-img-top" alt="Imagen 3">
+                </a>
+                <div class="card-body mi-modal-transparente">
+                  <p class="card-text text-center"> Canon Bell & Howell Vintage CANONET</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card">
+                <a href="">
+                  <img src="assets/img/shopping.webp" class="card-img-top" alt="Imagen 3">
+                </a>
+                <div class="card-body">
+                  <p class="card-text text-center"> Canon Bell & Howell Vintage CANONET</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card">
+                <a href="">
+                  <img src="assets/img/shopping.webp" class="card-img-top" alt="Imagen 3">
+                </a>
+                <div class="card-body">
+                  <p class="card-text text-center"> Canon Bell & Howell Vintage CANONET</p>
+                </div>
+              </div>
+            </div>
+          </div>

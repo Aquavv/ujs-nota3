@@ -1,0 +1,151 @@
+@import url("https://use.typekit.net/wod0tnm.css");
+
+body {
+  font-family: "aptly", sans-serif;
+  background-image: url('https://i.ibb.co/4tJJFDT/imgbg.png');
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  position: absolute;
+  
+}
+
+
+
+/* nav */
+.namepg {
+  font-family: "aptly", sans-serif;
+  font-weight: bolder;
+  font-size: 65px;
+  color: rgb(0, 0, 0);
+
+}
+
+
+/* nav */
+/* hover */
+.clsph img {
+  transition: transform 0.3s ease;
+  /* Agrega una transición suave */
+}
+
+.clsph:hover img {
+  transform: scale(1.1);
+  /* Escala la imagen al 110% en hover */
+  cursor: pointer;
+  /* Cambia el cursor a una mano */
+}
+
+/* hover */
+.myt-100 {
+  margin-top: 65%;
+}
+
+.rt-01 {
+  rotate: 10deg;
+}
+
+.rt-02 {
+  rotate: -10deg;
+}
+
+.mt-400{
+  margin-top: 20%;
+}
+
+.cowh {
+  font-weight: 600;
+  font-size: 50px;
+  color: white;
+}
+h2 {
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
+.phr {
+  margin-top: 5%;
+  box-shadow: 0px 0px 73px 5px rgba(0, 0, 1, 1);
+  background-color: rgba(0, 0, 0, 0.747);
+  margin: 77px auto 0;
+  width: 70%;
+  position: relative;
+  border-radius: 50px;
+  p {
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+  }
+}
+
+.tittles{
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+.list{
+  color: white;
+}
+
+.myt-300{
+  box-shadow: 0px 0px 73px 5px rgba(0, 0, 1, 1);
+  background-color: rgba(0, 0, 0, 0.747);
+  margin: 25%  auto 0;
+  width: 75%;
+  position: relative;
+  padding: 30px 30px 30px 30px;
+  p{
+    color: white;
+  }
+  h3{
+    color: white;
+  }
+  img{
+    width: 250px;
+  }
+}
+
+footer {
+  position: absolute;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.747);
+  padding: 10px;
+  text-align: center;
+  a{
+    color: white;
+  }
+}
+
+.myt-200{
+  margin-top: 20% ; 
+}
+
+
+.mi-modal-transparente .modal-content {
+  background-color: rgba(0, 0, 0, 0.5); /* Ajusta el valor de alpha (0.5) para controlar la transparencia */
+
+}
+
+.mi-modal-transparente .modal-backdrop {
+  background-color: transparent; /* Fondo del modal transparente */
+}
+
+.modal-header {
+  border-bottom: none;
+}
+.modal-footer {
+  border-top: none;
+}
+
+.boton{
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+  border-style: none;
+  width: 60px;
+  height: 30px;
+}
+
