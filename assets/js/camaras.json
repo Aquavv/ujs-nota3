@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "name": "Canom",
-    "image": "/assets/img/shopping.webp"
+    "name": "Canon",
+    "image": "http://localhost/offpic/wp-content/uploads/2024/07/Ixus-_2_478b95b6-f7b1-4537-b2fc-99cab0e4b87b_720x.jpg"
   },
   {
     "id": 2,
-    "name": "Sony",
-    "image": "/assets/img/shopping.webp"
+    "name": "Canon",
+    "image": "http://localhost/offpic/wp-content/uploads/2024/07/black-ixus-_2_469e44ba-0528-4bb1-a771-c2c23af202b5_720x.jpg"
   },
   {
     "id": 3,
-    "name": "Kodak",
-    "image": "/assets/img/shopping.webp"
+    "name": "Canon",
+    "image": "http://localhost/offpic/wp-content/uploads/2024/07/IMG_5606_720x.jpg"
   }
 ]
